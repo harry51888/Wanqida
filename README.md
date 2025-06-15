@@ -97,8 +97,8 @@
 #### 1. 克隆项目
 
 ```bash
-git clone https://github.com/yourusername/wanqianda.git
-cd wanqianda
+git clone https://github.com/harry51888/Wanqida.git
+cd Wanqida
 ```
 
 #### 2. 后端环境配置
@@ -242,9 +242,9 @@ MAX_CONTENT_LENGTH=16777216
 
 ## 📞 联系方式
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/wanqianda/issues)
-- **Email**: your-email@example.com
-- **项目主页**: https://github.com/yourusername/wanqianda
+- **Issues**: [GitHub Issues](https://github.com/harry51888/Wanqida/issues)
+- **Email**: harry051030@contact.com
+- **项目主页**: https://github.com/harry51888/Wanqida
 
 ## 🙏 致谢
 
