@@ -243,7 +243,7 @@ MAX_CONTENT_LENGTH=16777216
 ## 📞 联系方式
 
 - **Issues**: [GitHub Issues](https://github.com/harry51888/Wanqida/issues)
-- **Email**: harry051030@contact.com
+- **Email**: harrycn@88.com
 - **项目主页**: https://github.com/harry51888/Wanqida
 
 ## 🙏 致谢
